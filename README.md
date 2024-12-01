@@ -16,8 +16,3 @@ This pipeline processes a single input file by converting its contents to upperc
     ```bash
     nextflow run my-file-processing-pipeline --input ./data/input.txt
     ```
-
-## Google Batch
-
-Ensure you have configured Google Batch as described in the usage documentation.
-# quick-processing
